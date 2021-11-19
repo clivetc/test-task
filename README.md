@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-"# test-task" 
-=======
-# test-task
->>>>>>> 289dbf365eae937101ce4530008e55aab762b94c
+node backend to start server "npm start" or "nodemon server"
+react Frontend "npm start"
